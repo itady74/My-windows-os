@@ -1,5 +1,3 @@
-# My-windows-os
-
 List of applications, and tools that make my windows experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os and https://github.com/obahareth/my-mac-os(with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
 
 
@@ -89,7 +87,7 @@ Ditto is a tool that enhances the standard Windows clipboard by saving all copie
 - Text Extractor: A convenient way to copy text from anywhere on your screen.
 - Video Conference Mute: A quick way to globally "mute" both your microphone and camera while on a conference call, regardless of the application that currently has focus.
 
-#### [Everything](The fastest file/folder search tool by name) - The fastest file/folder search tool by name
+#### [Everything](https://www.voidtools.com/support/everything/) - The fastest file/folder search tool by name
 
 "Everything" is a filename search engine for Windows.
 
