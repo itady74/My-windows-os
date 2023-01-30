@@ -43,12 +43,12 @@ Flow Launcher is a sleek tool for searching your PC. It finds everything Windows
 
 The ultimate automation scripting language for Windows.
 
-- - Automate almost anything by sending keystrokes and mouse clicks. You can write a mouse or keyboard macro by hand or use the macro recorder.
-- - Create hotkeys for keyboard, joystick, and mouse. Virtually any key, button, or combination can become a hotkey.
-- - Expand abbreviations as you type them. For example, typing “btw” can automatically produce “by the way”.
-- - Create custom data-entry forms, user interfaces, and menu bars. See GUI for details.
-- - Remap keys and buttons on your keyboard, joystick, and mouse.
-- - Convert any script into an EXE file that can be run on computers that don’t have AutoHotkey installed.
+- Automate almost anything by sending keystrokes and mouse clicks. You can write a mouse or keyboard macro by hand or use the macro recorder.
+- Create hotkeys for keyboard, joystick, and mouse. Virtually any key, button, or combination can become a hotkey.
+- Expand abbreviations as you type them. For example, typing “btw” can automatically produce “by the way”.
+- Create custom data-entry forms, user interfaces, and menu bars. See GUI for details.
+- Remap keys and buttons on your keyboard, joystick, and mouse.
+- Convert any script into an EXE file that can be run on computers that don’t have AutoHotkey installed.
 
 
 #### [Ditto](https://ditto-cp.sourceforge.io/) - Clipboard Manager
